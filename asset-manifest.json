@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cafe/static/css/main.f8b83439.css",
+    "main.js": "/cafe/static/js/main.a2a897bc.js",
+    "static/media/cozy.jpeg": "/cafe/static/media/cozy.17a293f5a8c6d64d3214.jpeg",
+    "index.html": "/cafe/index.html",
+    "main.f8b83439.css.map": "/cafe/static/css/main.f8b83439.css.map",
+    "main.a2a897bc.js.map": "/cafe/static/js/main.a2a897bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8b83439.css",
+    "static/js/main.a2a897bc.js"
+  ]
+}
